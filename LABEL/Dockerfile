@@ -1,6 +1,6 @@
 FROM almalinux:9
-LABEL author="raju" \
+LABEL author="upender" \
       company="emagia" \
-      topic="dockerfile" \
+      topic="docker" \
       duration="1hour"
       
