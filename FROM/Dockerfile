@@ -1,1 +1,1 @@
-FROM ubuntu:22.04
+FROM almalinux:9
